@@ -1,5 +1,4 @@
 import telebot
-from telebot import types
 #подключаем токен бота
 token='5478353034:AAGQ5cFEBHgHVh8YT345aKRYwcNO0AgbJ3g'
 bot=telebot.TeleBot(token)
